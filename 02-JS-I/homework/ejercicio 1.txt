@@ -1,0 +1,18 @@
+1)
+ .Variables: son como nuestras cajitas donde guardamos algo en especial, puede ser desde un nombre como "David" o un numero 
+	como la edad que tenemos por ejemplo 22 años y tambien podemos guardar la verdad de dos formas "verdadero" y "falso". 
+	Cada cajita tiene un nombre en especial, por ejemplo, si voy a guardar mi nombre la cajita se va a llamar "miNombre" o 
+	si guardo mi edad se llamara "edad".
+.Strings: son palabras y frases que estamos usando en cada momento, ya sea para pedir prestado un lapiz o para pedir permiso de ir al baño,
+	por ejemplo, "seño puedo ir al baño?".
+.Funciones: las funciones son como las ordenes que sin saberlo las tenesmos incorporadas en nosotros. Por ejemplo, si nos dicen "tenes que oredenar tu cuarto"
+	nosotros sabes sin que nos digan que tenemos que hacer paso por paso, ya sea de empezar por hacer la cama, doblar la ropa y abrir las cortinas. Son ordenes 
+	que ya se nos grabaron en la mente.
+.Argumentos: van de la mano con las funciones. Porque en una habitacion hay tres personas y yo digo "anda a oredenar tu cuarto" ninguno de las personas sabe a quien 
+	me diriji. Pero si yo digo "Juan anda a oredenar tu cuarto" Juan es el argumento que la funciono o persona necesita para que sepa quien tiene que ir a ordenar el cuarto.
+.Return: es lo que devuelve una funcion, por ejemplo si les digo dos numeros y les pido solo el resultado, el resultado es lo que ustedes me devuelven como respuesta.
+.Declaraciones: son condiciones que nos guian por diferentes caminos. Por ejemplo, tengo tres lapices sobre la mesa verde, rojo y azul, sin mirar elijo uno y me pregunto de que color es.
+	Si es verde voy a decir que es verde, si es rojo voy a decir que es rojo y si es azul voy a decir que es azul. Pero si yo necesito solo el color azul solo voy a tomar el lapiz de
+	color azul.
+.Booleanos: cuando tome unos de los lapices anteriores, voy a preguntarle a ustedes si es azul suponiendo que yo no se que color es. Ustedes solo me van a decir verdadero cuando yo levante
+	 el lapiz azul pero si es de otro color me van a decir que es falso.

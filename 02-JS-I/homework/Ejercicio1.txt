@@ -1,0 +1,10 @@
+.Variables: son nuestras cajas en las cuales podemos guardar cualquier cosa o objeto que podamos tener en mente ya sea desde un nombre o un numero como la edad, cada caja tiene que tener un nombre el cual haga referencia 
+	a lo que se guarde en ella.
+.String: son las palabras que decimos diariamente, cuando hablamos estamos diciendo una serie de palabras que forman un cadena de palabras permitiendo una conversación.
+.Funciones: son como las ordenes que recibimos de nuestras mamás, con el tiempo solo nos dicen que hacer como "anda a oredenar el cuarto" y nosotros tenemos guardado
+	en la mente paso por paso para ordenar el cuarto de la forma que nos enseñaron. Lo mismo pasa con las funciones, son oredenes predefinidas y guardadas, las cuales pueden ser llamadas
+	con un nombre en especifico. Cada funcion tiene sus argumentos, ¿que son? por ejemplo, si mammá llamara a la funcion "oredena el cuarto" pero nos dice que lo oredenemos de forma rapida, 
+	el tiempo con el cual vamos a oredenar el cuarto es diferente si nos dijiera que solo lo oredenemos, ya que lo hariamos tomandonos el tiempo necesario para hacerlo a nuestro propio ritmo.
+	Una función puede devolver un resultado o un valor en especifico a esto se lo conoce como "return". En nuestro caso luego de que nos ordenen limpiar el cuarto devolveriamos un cuarto limpio y ordenado.
+.Declaraciones: son las condiciones que uno mismo o alguien más pone como regla, por ejemplo en el baño de los varones solo pasan los varones, eso seria una declaración, lo mismo para las mujeres, solo ellas pueden pasar y no los varones.
+.Valores booleanos: son los cuales conocemos como verdero o falso, si tomo una lapicera de color azul y digo que es roja, mi afirmacion seria falsa, pero si digo que es azul seria verdadera.
