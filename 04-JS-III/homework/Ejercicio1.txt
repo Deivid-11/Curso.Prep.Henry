@@ -1,0 +1,2 @@
+.Arrays: los arrays se parecen a las variables anteriormente mencionadas, ambas almacenan algun dato que nosotros queremos guardar pero los arrays pueden guardas mas de un dato. 
+	Por ejemplo: si las variables almacenan un nombre como "maria", los arrays pueden guardar más de un nombre.
