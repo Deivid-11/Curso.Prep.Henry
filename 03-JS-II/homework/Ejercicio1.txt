@@ -1,0 +1,6 @@
+.For: es una forma de repetir una accion de manera controlada, por ejemplo si les digo "den vuelta la calesita solo 10 veces" entonces ustedes no daran ni más ni menos de 10 vueltas.
+.&&: El "and" asi es como se llama, tiene la regla de controlar que dos condiciones dadas se cumplan. Por ejemplo: solo van a ir de escurción los que cumplan con sus deberes y tengan firmado el permiso,
+	en esa condicion se deben cumplir dos condiciones.
+.||: A diferencia del "and" este teniendo dos condiciones se puede solo cumplir con una para poder pasar. Ejemplo: para ir de escurción pueden ir acompañados de sus padres o tener la firma del permiso.
+.!: el "NOT" para entenderlo mejor con este operador podemos jugar al "día de lo contrario", si yo digo "si" el NOT lo cambia por un "no". Por ejemplo, si usu el NOT y les digo que para salir al 
+	recreo deben terminar la tarea, lo que estoy diciendo en realidad es que pueden salir sin terminar la tarea.  
